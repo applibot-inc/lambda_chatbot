@@ -1,0 +1,6 @@
+.terraform
+*.tfstate*
+terraform.tfstate
+
+lambda/archive
+lambda/bin
